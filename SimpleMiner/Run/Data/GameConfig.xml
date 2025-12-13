@@ -1,0 +1,10 @@
+<GameConfig
+	windowAspect="2"
+	windowFullscreen="true"
+	windowTitle="Simple Miner"
+	fontName="RobotoMonoSemiBold128"
+	
+	blockDefinitionsPath="Data/Definitions/BlockSpriteSheet_BlockDefinitions.xml"
+	blockSpriteSheetPath="Data/Images/SpriteSheet_Faithful_32x.dds"
+	blockSpriteSheetCellCount="8,8"
+/>
